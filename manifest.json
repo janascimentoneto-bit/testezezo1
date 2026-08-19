@@ -1,6 +1,6 @@
 {
-  "name": "Revisão Espaçada – TRANSPETRO",
-  "short_name": "Revisão",
+  "name": "Jogo de Revisão",
+  "short_name": "Jogo de Revisão",
   "description": "Caderno de erros e revisão espaçada 24h/7d/30d",
   "start_url": "./index.html",
   "scope": "./",
