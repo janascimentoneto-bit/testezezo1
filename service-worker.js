@@ -2,8 +2,8 @@ const CACHE_NAME = 'revisao-espacada-v2';
 const ARQUIVOS = [
   './index.html',
   './manifest.json',
-  './icon-192.png',
-  './icon-512.png',
+  './mulita.jpeg',
+  './mulita.jpeg',
 ];
 
 self.addEventListener('install', (event) => {
